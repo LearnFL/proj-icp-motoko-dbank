@@ -15,26 +15,26 @@
   <i>at async Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/webpack-cli/lib/webpack-cli.js:1674:</i></br>
   
 <b>Run these commands:</b> </br>
-  npm install --save-dev webpack-cli</br>
-  npm upgrade --save-dev webpack-cli</br>
+  <i>npm install --save-dev webpack-cli</br>
+  npm upgrade --save-dev webpack-cli</i></br>
 
 ### DBUG
-import Debug "mo:base/Debug";</br>
-Debug.print(debug_show(currentValue));</br>
+<i>import Debug "mo:base/Debug";</i></br>
+<i>Debug.print(debug_show(currentValue));</i></br>
 
 ### Class Canister
-actor DBank {}
+<i>actor DBank {}</i>
 
 ### Variable
-var a = 20;</br>
-<i>To replace value use walrus:</i></br>
-var a := 25;
+<i>var a = 20;</i></br>
+To replace value use walrus:</br>
+<i>var a := 25;</i>
 
 ### Constant
-let id = 54534564564;
+<i>let id = 54534564564;</i>
 
 ### Function
-<i>Private function:</i></br>
-func Name() {}</br>
-<i>Public function</i></br>
-public func Name() {}
+Private function:</br>
+<i>func Name() {}</i></br>
+Public function</br>
+<i>public func Name() {}</i>
