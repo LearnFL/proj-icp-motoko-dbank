@@ -44,3 +44,6 @@ Public function</br>
 
 Public function could be called from a command line:</br>
 <i>dfx canister call AppName FunctionName</i></br>
+
+### Candid
+A function could be accessed through a browser using (Candid)[https://internetcomputer.org/docs/current/developer-docs/build/candid/candid-howto]
