@@ -47,11 +47,9 @@ Public function could be called from a command line:</br>
 
 ### Candid UI
 A function could be accessed through a browser using [Candid](https://internetcomputer.org/docs/current/developer-docs/build/candid/candid-howto).</br>
-`<i>dfx canister id __Candid_UI`<br>
- `http://127.0.0.1:8000/?canisterId=CANDID-UI-CANISTER-IDENTIFIER`</i></br>
+```
+  <i>dfx canister id __Candid_UI`<br>
+  http://127.0.0.1:8000/?canisterId=CANDID-UI-CANISTER-IDENTIFIER</i></br>
+```
  Then enter canister ID fro the program (it is not the same ID you entered in porevious step)</br>
  
- ```
-  fgghfhdg
-  ghfdhgfdh
- ```
