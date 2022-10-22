@@ -41,3 +41,6 @@ Private function:</br>
 
 Public function</br>
 <i>public func Name() {}</i>
+
+Public function could be called from a command line:
+<i>dfx canister call dbank topUp</i></br>
