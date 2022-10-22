@@ -8,6 +8,6 @@ Debug.print(debug_show(currentValue));</br>
 actor DBank {}
 
 ### Variable
-var a = 20;
-To replace value use walrus:</br>
+var a = 20;</br>
+<i>To replace value use walrus:</i></br>
 var a := 25;
