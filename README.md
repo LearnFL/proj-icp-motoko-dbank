@@ -35,6 +35,6 @@ let id = 54534564564;
 
 ### Function
 <i>Private function:</i></br>
-func Name() {}
+func Name() {}</br>
 <i>Public function</i></br>
 public func Name() {}
