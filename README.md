@@ -27,6 +27,7 @@
 
 ### Variable
 <i>var a = 20;</i></br>
+
 To replace value use walrus:</br>
 <i>var a := 25;</i>
 
@@ -36,5 +37,6 @@ To replace value use walrus:</br>
 ### Function
 Private function:</br>
 <i>func Name() {}</i></br>
+
 Public function</br>
 <i>public func Name() {}</i>
