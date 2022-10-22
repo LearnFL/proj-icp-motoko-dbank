@@ -78,7 +78,7 @@ Enter following into the browser:
 
  Then enter canister ID for the program (it is not the same ID you entered in porevious step). One can find that id using the code below.</br>
  ```
-  dfx canister id counter
+  dfx canister id AppName
  ```
  
  
