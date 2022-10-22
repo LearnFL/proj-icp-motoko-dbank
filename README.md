@@ -6,16 +6,16 @@
 3) dfx deploy
 4) npm start
 * Must deploey after each change
-* If this error:
+* If this error:</br>
   <i>No production canister_ids.json found. Continuing with local</i></br>
   <i>[webpack-cli] TypeError: cli.isMultipleCompiler is not a function</i></br>
   <i>at Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/@webpack-cli/serve/lib/index.js:146:35)</i></br>
   <i>at async Promise.all (index 1)</i></br>
   <i>at async Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/webpack-cli/lib/webpack-cli.js:1674:</i></br>
   
-  Run these commands </br>
-  npm install --save-dev webpack-cli
-  npm upgrade --save-dev webpack-cli
+  <b>Run these commands:</b> </br>
+  npm install --save-dev webpack-cli</br>
+  npm upgrade --save-dev webpack-cli</br>
 
 ### DBUG
 import Debug "mo:base/Debug";</br>
