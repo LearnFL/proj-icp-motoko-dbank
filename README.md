@@ -71,5 +71,5 @@ A function could be accessed through a browser using [Candid](https://internetco
   dfx canister id __Candid_UI
   http://127.0.0.1:8000/?canisterId=CANDID-UI-CANISTER-IDENTIFIER
 ```
- Then enter canister ID fro the program (it is not the same ID you entered in porevious step)</br>
+ Then enter canister ID fro the program (it is not the same ID you entered in porevious step).</br>
  
