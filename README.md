@@ -15,7 +15,7 @@
   <i>at async Promise.all (index 1)</i></br>
   <i>at async Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/webpack-cli/lib/webpack-cli.js:1674:</i></br>
   
-<b>Run these commands:</b> </br>
+Run these commands:</br>
   <i>npm install --save-dev webpack-cli</br>
   npm upgrade --save-dev webpack-cli</i></br>
 
