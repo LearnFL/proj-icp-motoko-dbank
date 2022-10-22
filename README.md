@@ -4,8 +4,9 @@
 1) dxf new AppName</br>
 2) dfx start
 3) dfx deploy
-4) npm start
-<b>Must deploey after each change</b></br>
+4) npm start</br>
+
+<b>Must deploey after each change</b>
 <b>If this error:</b></br>
   <i>No production canister_ids.json found. Continuing with local</i></br>
   <i>[webpack-cli] TypeError: cli.isMultipleCompiler is not a function</i></br>
