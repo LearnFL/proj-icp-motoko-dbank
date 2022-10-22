@@ -1,5 +1,12 @@
 # Motoko DBank
 
+### Commands
+1) dxf new AppName</br>
+2) dfx start
+3) dfx deploy
+4) npm start
+* Must deploey after each change
+
 ### DBUG
 import Debug "mo:base/Debug";</br>
 Debug.print(debug_show(currentValue));</br>
