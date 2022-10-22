@@ -9,35 +9,51 @@
 <b>Must deploey after each change</b></br>
 
 <b>If this error:</b></br>
-  `<i>No production canister_ids.json found. Continuing with local</i></br>
-  <i>[webpack-cli] TypeError: cli.isMultipleCompiler is not a function</i></br>
-  <i>at Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/@webpack-cli/serve/lib/index.js:146:35)</i></br>
-  <i>at async Promise.all (index 1)</i></br>
-  <i>at async Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/webpack-cli/lib/webpack-cli.js:1674:</i>`</br>
+```
+  No production canister_ids.json found. Continuing with local
+  [webpack-cli] TypeError: cli.isMultipleCompiler is not a function
+  at Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/@webpack-cli/serve/lib/index.js:146:35)
+  at async Promise.all (index 1)
+  at async Command.<anonymous> (/Users/davidmartinezgil/proyect/node_modules/webpack-cli/lib/webpack-cli.js:1674:
+```
   
 Run these commands:</br>
-  `<i>npm install --save-dev webpack-cli</br>
-  npm upgrade --save-dev webpack-cli</i></br>`
+```
+  npm install --save-dev webpack-cli
+  npm upgrade --save-dev webpack-cli
+```
 
 ### DBUG
-`<i>import Debug "mo:base/Debug";</i></br>
-<i>Debug.print(debug_show(currentValue));</i></br>`
+```
+  import Debug "mo:base/Debug";
+  Debug.print(debug_show(currentValue));
+```
 
 ### Class Canister
-`<i>actor DBank {}</i>`
+```
+  actor DBank {}
+```
 
 ### Variable
-`<i>var a = 20;</i></br>`
+```
+  var a = 20;
+```
 
 To replace value use walrus:</br>
-`<i>var a := 25;</i>`
+```
+  var a := 25;
+```
 
 ### Constant
-`<i>let id = 54534564564;</i>`
+```
+  let id = 54534564564;
+```
 
 ### Function
 Private function:</br>
-`<i>func Name() {}</i></br>
+```
+  func Name() {}
+```
 
 Public function</br>
 ```
