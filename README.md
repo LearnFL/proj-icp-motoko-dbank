@@ -11,3 +11,12 @@ actor DBank {}
 var a = 20;</br>
 <i>To replace value use walrus:</i></br>
 var a := 25;
+
+### Constant
+let id = 54534564564;
+
+### Function
+<i>Private function:</i></br>
+func Name() {}
+<i>Public function</i></br>
+public func Name() {}
