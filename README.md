@@ -101,3 +101,6 @@ Query call does not modify anything on block chain, it is read only.
     };
 ```
 
+### Orthogonal Persistance
+Ability to hold on to state over many sycles of updates.
+
