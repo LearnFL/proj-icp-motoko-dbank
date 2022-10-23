@@ -81,7 +81,8 @@ Enter following into the browser:
   dfx canister id AppName
  ```
  
- ### Update call vs Query call [Read more on this topic](https://internetcomputer.org/docs/current/concepts/canisters-code/#query-update)
+ ### Update call vs Query call 
+ [Read more on this topic](https://internetcomputer.org/docs/current/concepts/canisters-code/#query-update)</br>
  Update call is slow as it has to write to block chain.
 ```
   public func withdrawal(x : Nat) {
