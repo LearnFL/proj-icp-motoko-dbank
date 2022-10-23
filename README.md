@@ -10,6 +10,10 @@
 [Setup for windows](https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub)</br>
 [GitLab API](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml)</br>
 [App compound finance](https://app.compound.finance)</br>
+[Difinity developer discord](https://discord.com/invite/cA7y6ezyE2)</br>
+[Command line ref](https://internetcomputer.org/docs/current/references/cli-reference/)</br>
+[Official docs](https://internetcomputer.org/docs/current/developer-docs/ic-overview/)</br>
+[Difinity forum](https://forum.dfinity.org/)</br>
 
 ### Commands
 1) dxf new AppName</br>
