@@ -25,9 +25,7 @@ This simple app is a quick dive in motoko and ICP. The app implements deposits, 
 3) dfx deploy
 4) npm start</br>
 
-<b>Must deploey after each change</b></br>
-
-<b>If this error:</b></br>
+<b>Must deploey after each change.If this error:</b></br>
 ```
   No production canister_ids.json found. Continuing with local
   [webpack-cli] TypeError: cli.isMultipleCompiler is not a function
