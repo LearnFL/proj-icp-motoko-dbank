@@ -126,3 +126,6 @@ But in the canister on ICP it does not have to happen, instead it can hold on to
 ```
   stable var currentValue = 300;
 ```
+### Connect Fronend to Backend
+If node dependencies have not been installed, open a new terminal and run:
+```npm install```
