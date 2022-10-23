@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>DBank</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link type="text/css" rel="stylesheet" href="main.css" />
+ 
+  </head>
+
+  <body>
+    <div class="container">
+      <img id="logo" src="dbank_logo1.png" alt="DBank logo" width="100"/>
+      <h1>Current Balance: $<span id="value"></span></h1>
+      <p id="update_status">Updating...</p>
+      <div class="divider"></div>
+      <form id="transaction" >
+      <h2>Amount to Add</h2>
+      <input id="input-amount" type="number" step="0.01" min=0 name="topUp" value=""/>
+      <h2>Amount to Withdraw</h2>
+      <input id="withdrawal-amount" type="number" name="withdraw" step="0.01" min=0 value=""/>
+      <input id="submit-btn" type="submit" value="Finalise Transaction" />
+    </form>
+    </div>
+    <footer>
+      <p>
+        &copy <a href="https://www.dennisrotnov.com" target="_blank">Dennis Rotnov</a> 
+        <span id="year_span"></span>
+      </p>
+    </footer>
+    <script type="text/javascript" src="index.js"></script>
+  </body>
+
+</html>
