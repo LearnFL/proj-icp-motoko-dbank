@@ -1,5 +1,15 @@
 # Motoko DBank
 
+### Usefull websites
+[Dfinity](https://dfinity.org)
+[Motoko styling](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/style/)
+[Crypto fund research](https://cryptofundresearch.com/cryptocurrency-funds-overview-infographic/)
+[Blockchain demo](https://guggero.github.io/blockchain-demo/#!/block)
+[Censys system overview](https://dfinity.org/pdf-viewer/pdfs/viewer?file=../library/dfinity-consensus.pdf)
+[Setup for mac](https://docs.google.com/document/d/e/2PACX-1vTSgoWcVvuMW4Aa78MyqeK0_ZRl_MaV7rS-tdhya3jlPbSSbxczQFCohrGf87T4F7tJKXwTjT2z_QSq/pub)
+[Setup for windows](https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub)
+[GitLab API](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml)
+
 ### Commands
 1) dxf new AppName</br>
 2) dfx start
