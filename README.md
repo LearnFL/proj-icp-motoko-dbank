@@ -94,7 +94,7 @@ Enter following into the browser:
       };
     };
 ```
-Query call does not modify anything on block chain.
+Query call does not modify anything on block chain, it is read only.
 ```
   public query func checkBalance() : async Nat {
       return currentValue;
