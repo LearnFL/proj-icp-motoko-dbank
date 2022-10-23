@@ -140,6 +140,13 @@ If node dependencies have not been installed, open a new terminal and run:
   dfx deploy
   npm start
 ```
+Import app into JS file. Call with await.
+```
+  import { dbank } from "../../declarations/dbank";
+  
+  await dbank.topUp(input_amount);
+```
+
 ### Pictures
 ![Screen Shot 2022-10-23 at 6 16 58 PM](https://user-images.githubusercontent.com/86169204/197420793-b92616d1-c2dd-46e2-90e0-58aefae64bda.png)
 ![Screen Shot 2022-10-23 at 6 17 10 PM](https://user-images.githubusercontent.com/86169204/197420796-005bf696-06b1-4f47-94e3-c8ffdb026686.png)
