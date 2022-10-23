@@ -45,6 +45,7 @@ Run these commands:</br>
 ```
 
 ### Variable
+Decalration and initialization:</br>
 ```
   var a = 20;
 ```
@@ -54,7 +55,7 @@ To replace value use walrus:</br>
   var a := 25;
 ```
 
-### Constant
+Constant: </br>
 ```
   let id = 54534564564;
 ```
