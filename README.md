@@ -1,6 +1,6 @@
 # Motoko DBank
 
-### A quick dive in ICP and Motoco.
+### A quick dive in ICP and Motoko.
 This simple app is a quick dive in Motoko and ICP. The app implements deposits, withdrawals and compounds interest every second, that is why if you add $10 your balance will increase by more than that. See pictures at the bottom of the page.
 
 
