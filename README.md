@@ -94,7 +94,7 @@ Enter following into the browser:
       };
     };
 ```
-Query call doe snot modify anything on block chain.
+Query call does not modify anything on block chain.
 ```
   public query func checkBalance() : async Nat {
       return currentValue;
