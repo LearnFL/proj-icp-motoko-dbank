@@ -115,4 +115,12 @@ Query call does not modify anything on block chain, it is read only.
 
 ### Orthogonal Persistance
 Ability to hold on to state over many sycles of updates.
-
+If you run the code below and redeploy the canister, unless we add 1 to a again, the value of a will be 5.
+```
+  var a = 5;
+  a += 1;
+```
+But in the canister on ICP it does not have to happen, instead it can hold on to the state of the variable. We can create a persisted variable by using 'stable' keyword:
+```
+  stable var currentValue = 300;
+```
