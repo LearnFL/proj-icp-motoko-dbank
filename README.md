@@ -114,7 +114,7 @@ Query call does not modify anything on block chain, it is read only.
 ```
 
 ### Orthogonal Persistance
-[Read more on stable variables](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/upgrades/)
+[Read more on stable variables](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/upgrades/)</br>
 Ability to hold on to state over many sycles of updates.
 If you run the code below and redeploy the canister, unless we add 1 to a again, the value of a will be 5.
 ```
