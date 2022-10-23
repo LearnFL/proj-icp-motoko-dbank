@@ -13,8 +13,8 @@ This simple app is a quick dive in motoko and ICP. The app implements deposits, 
 [App compound finance](https://app.compound.finance)</br>
 [Dfinity](https://dfinity.org)</br>
 [Difinity forum](https://forum.dfinity.org/)</br>
-[Motoko styling](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/style/)</br>
 [Difinity developer discord](https://discord.com/invite/cA7y6ezyE2)</br>
+[Motoko styling](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/style/)</br>
 [Command line ref](https://internetcomputer.org/docs/current/references/cli-reference/)</br>
 [Official docs](https://internetcomputer.org/docs/current/developer-docs/ic-overview/)</br>
 [GitLab API](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml)</br>
