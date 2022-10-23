@@ -148,6 +148,8 @@ Import app into JS file. Call with await.
 ```
 
 ### Pictures
+Once transaction has been submitted, the app will notify that the transaction is being carrried out (as async call may take some time) and submitt buttom will be unavailable.
+
 ![Screen Shot 2022-10-23 at 6 16 58 PM](https://user-images.githubusercontent.com/86169204/197420793-b92616d1-c2dd-46e2-90e0-58aefae64bda.png)
 ![Screen Shot 2022-10-23 at 6 17 10 PM](https://user-images.githubusercontent.com/86169204/197420796-005bf696-06b1-4f47-94e3-c8ffdb026686.png)
 ![Screen Shot 2022-10-23 at 6 22 29 PM](https://user-images.githubusercontent.com/86169204/197421005-ece4b03e-3a7a-48f1-a4b1-fb6559db9d63.png)
