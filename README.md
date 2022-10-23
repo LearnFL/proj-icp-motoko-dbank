@@ -130,4 +130,7 @@ But in the canister on ICP it does not have to happen, instead it can hold on to
 If node dependencies have not been installed, open a new terminal and run:
 ```
   npm install
+  dfx start
+  dfx deploy
+  npm start
 ```
