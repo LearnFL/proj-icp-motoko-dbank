@@ -13,7 +13,7 @@
 
 ### Commands
 1) dxf new AppName</br>
-2) dfx start
+2) dfx start (or dfx start --clean if get errors)
 3) dfx deploy
 4) npm start</br>
 
