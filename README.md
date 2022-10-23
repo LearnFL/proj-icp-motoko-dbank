@@ -81,4 +81,23 @@ Enter following into the browser:
   dfx canister id AppName
  ```
  
- 
+ ### Update call vs Query call
+ Update call is slow as it has to write to block chain.
+```
+  public func withdrawal(x : Nat) {
+      let tempValue : Int = currentValue - x;
+      if (tempValue >= 0) {
+        currentValue -= x;
+        Debug.print(debug_show (currentValue));
+      } else {
+        Debug.print("Not Enough Funds");
+      };
+    };
+```
+Query call doe snot modify anything on block chain.
+```
+  public query func checkBalance() : async Nat {
+      return currentValue;
+    };
+```
+
