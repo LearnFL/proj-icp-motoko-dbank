@@ -1,6 +1,6 @@
 # Motoko DBank
 
-### A quick dive in ICP and motoco with a simple app that implements deposits, withdrawals and compounds interest every second.
+### A quick dive in ICP and motoco with a simple app that implements deposits, withdrawals and compounds interest every second. See pictures at the bottom of the page.
 
 
 ### Usefull websites
@@ -141,3 +141,8 @@ If node dependencies have not been installed, open a new terminal and run:
   dfx deploy
   npm start
 ```
+### Pictures
+![Screen Shot 2022-10-23 at 6 16 58 PM](https://user-images.githubusercontent.com/86169204/197420793-b92616d1-c2dd-46e2-90e0-58aefae64bda.png)
+![Screen Shot 2022-10-23 at 6 17 10 PM](https://user-images.githubusercontent.com/86169204/197420796-005bf696-06b1-4f47-94e3-c8ffdb026686.png)
+![Screen Shot 2022-10-23 at 6 17 16 PM](https://user-images.githubusercontent.com/86169204/197420799-62d32b5b-43a1-428d-b6e2-0712a36515bd.png)
+
