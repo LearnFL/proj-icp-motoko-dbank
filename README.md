@@ -1,5 +1,8 @@
 # Motoko DBank
 
+### A quick dive in ICP and motoco with a simple app that implements deposits, withdrawals and compounds interest every second.
+
+
 ### Usefull websites
 [Dfinity](https://dfinity.org)</br>
 [Motoko styling](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/style/)</br>
