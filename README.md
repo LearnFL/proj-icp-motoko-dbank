@@ -148,8 +148,11 @@ Import app into JS file. Call with await.
 ```
 
 ### How to pay for ICP
-#### Purchase ICP token.
-#### Network Nervous System NNS. Allows to time log ICP token to create a neuron. Earn rewards by voting ona proposal.
+##### ICP token.
+Purchase ICP token from places like Coinbase.
+
+##### Network Nervous System NNS. 
+Allows to time log ICP token to create a neuron. Earn rewards by voting ona proposal.
 
 ### Pictures
 Once transaction has been submitted, the app will notify that the transaction is being carrried out (async call may take some time) and submitt buttom will be unavailable.
