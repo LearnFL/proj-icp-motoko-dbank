@@ -169,7 +169,7 @@ Dfinity gives you free cycles. Anyone with 90 days old Guthub account get $20 wo
 - Create DFX principal id. It identifies you as a developer. </br>
 - Generate new cycles walet. It will show balance in teracycles. </br>
 - Copy and paste given command to set the id of a default wallet. Before that must CD over your project folder. </br>
-- Check balance by placing into browser's search box `DFX_principal_id.raw.ic0.app`. Then create internet identity anker and <i>**__SAVE IT__**</i>. </br> 
+- Check balance by placing into browser's search box `DFX_principal_id.raw.ic0.app`. Then create internet identity anker and <i>__SAVE IT__</i>. </br> 
 
 
 ### Deployment
