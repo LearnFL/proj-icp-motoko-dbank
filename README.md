@@ -16,7 +16,7 @@ This simple app is a quick dive in Motoko and ICP. The app implements deposits, 
 [Difinity developer discord](https://discord.com/invite/cA7y6ezyE2)</br>
 [Motoko styling](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/style/)</br>
 [Dfinity cycle cost](https://internetcomputer.org/docs/current/developer-docs/deploy/computation-and-storage-costs/)</br>
-[Dfinity cycles faucet](https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/); </br>
+[Dfinity cycles faucet](https://internetcomputer.org/docs/current/developer-docs/quickstart/cycles-faucet/) </br>
 [Command line ref](https://internetcomputer.org/docs/current/references/cli-reference/)</br>
 [Official docs](https://internetcomputer.org/docs/current/developer-docs/ic-overview/)</br>
 [GitLab API](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml)</br>
