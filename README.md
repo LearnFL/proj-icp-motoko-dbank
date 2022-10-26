@@ -184,7 +184,7 @@ dfx canister --network ic id dbank_assets
 ### Host static website.
 - Create folder in which youc reate another folder called Assets and place all files in it.</br>
 - Open the main folder in VS Code, next to Assets folder create a file 'dfx.json'.
-```json
+```javascript
 {
   "canisters": {
     website: {
