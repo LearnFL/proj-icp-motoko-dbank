@@ -156,7 +156,7 @@ You can exchange tokens for computational power aka "Cycles".
 Purchase ICP token from places like Coinbase.
 
 ##### 2) Network Nervous System NNS. 
-Allows to time log ICP token to create a neuron. Earn rewards by voting ona proposal.
+Allows to time log ICP token to create a neuron. Earn rewards by voting ona proposal. Send tokens to NNS, link tokens to your Dfinity wallet. If you don't know what your wallet is use `dfx identity --network ic get-wallet`command to see your default wallet linked to your app.
 
 ##### 3) Dfinity.
 Earn grant from Dfinity.
@@ -169,7 +169,9 @@ Dfinity gives you free cycles. Anyone with 90 days old Guthub account get $20 wo
 - Create DFX principal id. It identifies you as a developer. </br>
 - Generate new cycles walet. It will show balance in teracycles. </br>
 - Copy and paste given command to set the id of a default wallet. Before that must CD over your project folder. </br>
-- Check balance by placing into browser's search box `<DFX_principal_id>.raw.ic0.app`. Then create internet identity anker and <i>SAVE IT</i>. </br> 
+- Check balance by placing into browser's search box `<DFX_principal_id>.raw.ic0.app`. Then create internet identity anker and save it. </br> 
+
+### Deployment
 - From VS Code `DFX deploy --network ic`.
 - Get canister id by typing:
 ```
@@ -179,10 +181,13 @@ dfx canister --network ic id dbank_assets
 ```
 <caniste_Id>.raw.ic0.app
 ```
-
-
-
-### Deployment
+### Host static website.
+- Create folder in which youc reate another folder called Assets and place all files in it.</br>
+- Open the main folder in VS Code, next to Assets folder create a file 'dfx.json'.
+```json
+{
+}
+```json
 
 ### Pictures
 Once transaction has been submitted, the app will notify that the transaction is being carrried out (async call may take some time) and submitt buttom will be unavailable.
