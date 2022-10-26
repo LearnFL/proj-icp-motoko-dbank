@@ -149,21 +149,21 @@ Import app into JS file. Call with await.
   await dbank.topUp(input_amount);
 ```
 
-### How to pay for ICP
+### 1) How to pay for ICP
 You can exchange tokens for computational power aka "Cycles".
 
-##### ICP token.
+##### 2) ICP token.
 Purchase ICP token from places like Coinbase.
 
-##### Network Nervous System NNS. 
+##### 3) Network Nervous System NNS. 
 Allows to time log ICP token to create a neuron. Earn rewards by voting ona proposal.
 
-##### Dfinity.
+##### 4) Dfinity.
 Earn grant from Dfinity.
 
-#### Act as a data center.
+#### 5) Act as a data center.
 
-#### Dfinity faucet.
+#### 6) Dfinity faucet.
 Dfinity gives you free cycles. Anyone with 90 days old Guthub account get $20 worth of free cycles.
 
 ### Pictures
