@@ -187,7 +187,7 @@ dfx canister --network ic id dbank_assets
 ```json
 {
 }
-```json
+```
 
 ### Pictures
 Once transaction has been submitted, the app will notify that the transaction is being carrried out (async call may take some time) and submitt buttom will be unavailable.
