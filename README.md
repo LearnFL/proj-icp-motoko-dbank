@@ -161,9 +161,9 @@ Allows to time log ICP token to create a neuron. Earn rewards by voting ona prop
 ##### 3) Dfinity.
 Earn grant from Dfinity.
 
-#### 4) Act as a data center.
+##### 4) Act as a data center.
 
-#### 5) Dfinity faucet.
+##### 5) Dfinity faucet.
 Dfinity gives you free cycles. Anyone with 90 days old Guthub account get $20 worth of free cycles.
 
 ### Deployment
