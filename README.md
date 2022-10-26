@@ -175,25 +175,36 @@ Dfinity gives you free cycles. Anyone with 90 days old Guthub account get $20 wo
 - From VS Code `DFX deploy --network ic`.
 - Get canister id by typing:
 ```
-dfx canister --network ic id dbank_assets
+  dfx canister --network ic id dbank_assets
 ```
 - To load your canister in browser:
 ```
-<caniste_Id>.raw.ic0.app
+  <caniste_Id>.raw.ic0.app
 ```
 ### Host static website.
 - Create folder in which youc reate another folder called Assets and place all files in it.</br>
 - Open the main folder in VS Code, next to Assets folder create a file 'dfx.json'.
 ```javascript
-{
-  "canisters": {
-    website: {
-      "type": "assets",
-      "source": ["assets"]
+  {
+    "canisters": {
+      website: {
+        "type": "assets",
+        "source": ["assets"]
+      }
     }
   }
-}
 ```
+- All files will be collapsed into a the same level directory. For this reason all of the file referrences in your html must be as if the files are located in the same folder.
+- Type command:
+```
+  dfx deploy --network ic
+```
+- Get web url:
+```
+  dfx canister --network ic id website
+```
+Remember that we set the name of the canister in dfx.json as "website". </br>
+The URL is <canister ID>.raw.ic0.app
 
 ### Pictures
 Once transaction has been submitted, the app will notify that the transaction is being carrried out (async call may take some time) and submitt buttom will be unavailable.
