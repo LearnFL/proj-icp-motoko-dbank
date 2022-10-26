@@ -186,6 +186,12 @@ dfx canister --network ic id dbank_assets
 - Open the main folder in VS Code, next to Assets folder create a file 'dfx.json'.
 ```json
 {
+  "canisters": {
+    website: {
+      "type": "assets",
+      "source": ["assets"]
+    }
+  }
 }
 ```
 
