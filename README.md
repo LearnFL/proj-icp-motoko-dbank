@@ -15,6 +15,7 @@ This simple app is a quick dive in Motoko and ICP. The app implements deposits, 
 [Difinity forum](https://forum.dfinity.org/)</br>
 [Difinity developer discord](https://discord.com/invite/cA7y6ezyE2)</br>
 [Motoko styling](https://internetcomputer.org/docs/current/developer-docs/build/cdks/motoko-dfinity/style/)</br>
+[Dfinity cycle cost](https://internetcomputer.org/docs/current/developer-docs/deploy/computation-and-storage-costs/)</br>
 [Command line ref](https://internetcomputer.org/docs/current/references/cli-reference/)</br>
 [Official docs](https://internetcomputer.org/docs/current/developer-docs/ic-overview/)</br>
 [GitLab API](https://gitlab.com/gitlab-org/gitlab/-/blob/master/doc/api/openapi/openapi.yaml)</br>
@@ -148,11 +149,21 @@ Import app into JS file. Call with await.
 ```
 
 ### How to pay for ICP
+You can exchange tokens for computational power aka "Cycles".
+
 ##### ICP token.
 Purchase ICP token from places like Coinbase.
 
 ##### Network Nervous System NNS. 
 Allows to time log ICP token to create a neuron. Earn rewards by voting ona proposal.
+
+##### Dfinity.
+Earn grant from Dfinity.
+
+#### Act as a data center.
+
+#### Dfinity faucet.
+Dfinity gives you free cycles. Anyone with 90 days old Guthub account get $20 worth of free cycles.
 
 ### Pictures
 Once transaction has been submitted, the app will notify that the transaction is being carrried out (async call may take some time) and submitt buttom will be unavailable.
